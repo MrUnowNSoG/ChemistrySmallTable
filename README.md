@@ -7,17 +7,16 @@
 
 <p align="center">
   <br>
-   <img src="./.readme/images/logo_bot.png" alt="Logo" height="220"/>
+   <img src="./.readme/images/Logo.png" alt="Logo" height="500"/>
   <br>
 </p>
 
 
 ## Table of Contents
 1. [Introduction](#Introduction)
-2. [Introduction Ua](#Introduction-ua)
-3. [Preview of work](#Preview-of-work)
-4. [How to install](#How-to-install)
-5. [How to use](#How-to-use)
+2. [Preview of work](#Preview-of-work)
+3. [How to install](#How-to-install)
+4. [Where take .exe file](#How-to-use)
 
 
 ## <a name="Introduction">Introduction</a>
@@ -34,7 +33,7 @@ The purpose of this bot is to provide the user with links to propaganda sources 
 *	Посилення прозорості та відповідальності: Подання скаргу на пропагандистські джерела викликає необхідність проведення перевірки та вжиття заходів щодо відповідності їхньої діяльності етичним та нормативним стандартам. Це може сприяти зміцненню прозорості та відповідальності з боку засобів масової інформації та публічних платформ.
 
 ## <a name="Preview-of-work">Preview of work</a>
-<details open>
+<details close>
 <summary>
  Images
 </summary> <br/>
