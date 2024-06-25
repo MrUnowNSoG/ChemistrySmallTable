@@ -31,13 +31,13 @@ A great app for school to study the chemical table in class.
 </summary> <br/>
 
 <p align="center">
-    <img src="./.readme/images/Work_1.png" alt="start" height = "500"/>
+    <img src="./.readme/images/Work_1.png" alt="Work project 1" height = "500"/>
 </p>
 
 <hr>
 
 <p align="center">
-    <img src="./.readme/images/Work_2.png" alt="start" height = "500"/>
+    <img src="./.readme/images/Work_2.png" alt="Work project 2" height = "500"/>
 </p>
 </details>
 
